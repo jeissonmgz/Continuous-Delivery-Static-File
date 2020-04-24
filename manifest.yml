@@ -1,5 +1,5 @@
 ---
 applications:
-- buildpack: https://github.com/cloudfoundry/staticfile-buildpack
-  name: morado70
-  memory: 64M
+  - buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+    name: blue94
+    memory: 64M
